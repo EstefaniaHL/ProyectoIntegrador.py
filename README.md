@@ -1,1 +1,1 @@
-# ProyectoPyInical: Estadísticas de Fútbol
+# ProyectoPyInicial: Estadísticas de Fútbol
