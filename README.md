@@ -21,3 +21,6 @@ Las opciones son las siguientes:
 3. Partidos empatados
 4. Goles a favor
 5. Goles en contra
+
+# Diagrama de flujo
+![image](https://user-images.githubusercontent.com/105552739/184893229-b26ee127-d9e0-46cf-961b-7d8420216360.png)
