@@ -1,7 +1,7 @@
 # Python Inicial - Proyecto Final:
 Estadísticas de Fútbol 📈⚽
 Este es un trabajo final que busca integrar todas las herramientas brindadas 
-en el curso de Python Inicial.
+en el curso de Programador Python.
 
 # Descripción del Proyecto
 El siguiente proyecto se basa en uno de los ejemplos brindados por Inove.
