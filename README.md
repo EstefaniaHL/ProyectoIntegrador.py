@@ -1,4 +1,4 @@
-# Python Inicial - Proyecto Final:
+# Python Inicial - Proyecto Integrador:
 Estadísticas de Fútbol 📈⚽
 Este es un trabajo final que busca integrar todas las herramientas brindadas 
 en el curso de Programador Python.
